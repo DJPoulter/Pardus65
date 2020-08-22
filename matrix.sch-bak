@@ -1,10 +1,9 @@
 EESchema Schematic File Version 4
-LIBS:matrix-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 1
 Title ""
 Date ""
 Rev ""
@@ -557,10 +556,4 @@ Connection ~ 2550 5100
 Wire Wire Line
 	2750 5100 3050 5100
 Connection ~ 2750 5100
-$Sheet
-S 3550 5850 2300 1250
-U 5F49B872
-F0 "Keyboard Matrix" 50
-F1 "KeyboardMatrix.sch" 50
-$EndSheet
 $EndSCHEMATC
