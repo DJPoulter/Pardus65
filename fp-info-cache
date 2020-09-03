@@ -1,4 +1,4 @@
-16492264168650804
+16556194931753380
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49728,12 +49728,26 @@ MXOnly-1.5U-FLIPPED
 4
 4
 MX_Only
+MXOnly-1.5U-FLIPPED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-1.5U-Hotswap
 
 
 0
 2
 2
+MX_Only
+MXOnly-1.5U-Hotswap-LED
+
+
+0
+4
+4
 MX_Only
 MXOnly-1.5U-NoLED
 
@@ -49777,6 +49791,13 @@ MXOnly-1.25U-Hotswap
 2
 2
 MX_Only
+MXOnly-1.25U-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-1.25U-NoLED
 
 
@@ -49798,12 +49819,26 @@ MXOnly-1.75U-FLIPPED
 4
 4
 MX_Only
+MXOnly-1.75U-FLIPPED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-1.75U-Hotswap
 
 
 0
 2
 2
+MX_Only
+MXOnly-1.75U-Hotswap-LED
+
+
+0
+4
+4
 MX_Only
 MXOnly-1.75U-NoLED
 
@@ -49826,6 +49861,13 @@ MXOnly-1U-FLIPPED
 4
 4
 MX_Only
+MXOnly-1U-FLIPPED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-1U-Hotswap
 
 
@@ -49839,6 +49881,13 @@ MXOnly-1U-Hotswap-Antishear
 0
 10
 2
+MX_Only
+MXOnly-1U-Hotswap-LED
+
+
+0
+4
+4
 MX_Only
 MXOnly-1U-NoLED
 
@@ -49861,6 +49910,20 @@ MXOnly-2.25U-FLIPPED
 4
 4
 MX_Only
+MXOnly-2.25U-FLIPPED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.25U-FLIPPED-Hotswap-ReversedStabilizers-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-2.25U-FLIPPED-ReversedStabilizers
 
 
@@ -49875,12 +49938,26 @@ MXOnly-2.25U-Hotswap
 2
 2
 MX_Only
+MXOnly-2.25U-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-2.25U-Hotswap-ReversedStabilizers
 
 
 0
 2
 2
+MX_Only
+MXOnly-2.25U-Hotswap-ReversedStabilizers-LED
+
+
+0
+4
+4
 MX_Only
 MXOnly-2.25U-NoLED
 
@@ -49917,6 +49994,20 @@ MXOnly-2.75U-FLIPPED
 4
 4
 MX_Only
+MXOnly-2.75U-FLIPPED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.75U-FLIPPED-Hotswap-ReversedStabilizers-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-2.75U-FLIPPED-ReversedStabilizers
 
 
@@ -49931,12 +50022,26 @@ MXOnly-2.75U-Hotswap
 2
 2
 MX_Only
+MXOnly-2.75U-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-2.75U-Hotswap-ReversedStabilizers
 
 
 0
 2
 2
+MX_Only
+MXOnly-2.75U-Hotswap-ReversedStabilizers-LED
+
+
+0
+4
+4
 MX_Only
 MXOnly-2.75U-NoLED
 
@@ -49973,6 +50078,13 @@ MXOnly-2U-FLIPPED
 4
 4
 MX_Only
+MXOnly-2U-FLIPPED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-2U-FLIPPED-ReversedStabilizers
 
 
@@ -49986,6 +50098,13 @@ MXOnly-2U-Hotswap
 0
 2
 2
+MX_Only
+MXOnly-2U-Hotswap-LED
+
+
+0
+4
+4
 MX_Only
 MXOnly-2U-Hotswap-ReversedStabilizers
 
@@ -50029,7 +50148,35 @@ MXOnly-3U-FLIPPED
 4
 4
 MX_Only
+MXOnly-3U-FLIPPED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-3U-FLIPPED-Hotswap-ReversedStabilizers-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-3U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-3U-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-3U-Hotswap-ReversedStabilizers-LED
 
 
 0
@@ -50071,6 +50218,20 @@ MXOnly-6.25U-FLIPPED
 4
 4
 MX_Only
+MXOnly-6.25U-FLIPPED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-6.25U-FLIPPED-Hotswap-ReversedStabilizer-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-6.25U-FLIPPED-ReversedStabilizers
 
 
@@ -50084,6 +50245,20 @@ MXOnly-6.25U-Hotswap
 0
 2
 2
+MX_Only
+MXOnly-6.25U-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-6.25U-Hotswap-ReversedStabilizer-LED
+
+
+0
+4
+4
 MX_Only
 MXOnly-6.25U-Hotswap-ReversedStabilizers
 
@@ -50134,12 +50309,47 @@ MXOnly-6U-Centered-FLIPPED
 4
 4
 MX_Only
+MXOnly-6U-Centered-FLIPPED-Hotswap
+
+
+0
+4
+4
+MX_Only
+MXOnly-6U-Centered-FLIPPED-Hotswap-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
 MXOnly-6U-Centered-FLIPPED-ReversedStabilizers
 
 
 0
 4
 4
+MX_Only
+MXOnly-6U-Centered-Hotswap
+
+
+0
+4
+4
+MX_Only
+MXOnly-6U-Centered-Hotswap-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-6U-Centered-Hotswap-ReversedStabilizers-NoLED
+
+
+0
+2
+2
 MX_Only
 MXOnly-6U-Centered-NoLED
 
@@ -50197,6 +50407,20 @@ MXOnly-7U-FLIPPED
 4
 4
 MX_Only
+MXOnly-7U-FLIPPED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-7U-FLIPPED-Hotswap-ReversedStabilizers-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-7U-FLIPPED-ReversedStabilizers
 
 
@@ -50211,12 +50435,26 @@ MXOnly-7U-Hotswap
 2
 2
 MX_Only
+MXOnly-7U-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-7U-Hotswap-ReversedStabilizers
 
 
 0
 2
 2
+MX_Only
+MXOnly-7U-Hotswap-ReversedStabilizers-LED
+
+
+0
+4
+4
 MX_Only
 MXOnly-7U-NoLED
 
@@ -50246,7 +50484,49 @@ MXOnly-ISO
 4
 4
 MX_Only
+MXOnly-ISO-FLIPPED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-ISO-FLIPPED-Hotswap-ReversedStabilizers-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-ISO-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-ISO-Hotswap-ReversedStabilizers-LED
+
+
+0
+4
+4
+MX_Only
 MXOnly-ISO-ROTATED
+
+
+0
+4
+4
+MX_Only
+MXOnly-ISO-ROTATED-Hotswap-LED
+
+
+0
+4
+4
+MX_Only
+MXOnly-ISO-ROTATED-Hotswap-ReversedStabilizers-LED
 
 
 0
